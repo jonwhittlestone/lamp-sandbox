@@ -35,3 +35,11 @@ For testing
 4. Amend the host OS's hosts file  127.0.0.1 lamp-sandbox.dev
 5. Visit http://lamp-sandbox.dev:8080/
 
+## Cheatsheet
+
+| Description        | Command          | Comments  |
+| ------------- |:-------------:| -----:|
+| URL     | `http://lamp-sandbox.dev:8080/` |  |
+| SSH Connection      | `ssh -luser -p2222 lamp-sandbox.dev`      |   password: qwerty |
+| zebra stripes | are neat      |    $1 |
+
