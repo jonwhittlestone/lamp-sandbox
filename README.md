@@ -5,7 +5,7 @@ A LAMP Virtual Machine for Virtualbox &amp; Cheatsheet
 
 An appliance image for use with VirtualBox
 
-[Download](ftp://whittlestone:Pa55word!@whittlestone.info/lampsandbox2.ova)
+[Download] ftp://whittlestone:Pa55word!@whittlestone.info/lampsandbox2.ova
 ## Features
 
 * LAMP - 5.4.17
